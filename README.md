@@ -9,5 +9,5 @@ Using D3 techniques in JavaScript to build scatter plot
 * Created and situated axes and labels to the left and bottom of the chart.
 * Used tooltip to add functionality to display state info when selecting each circle
 <br>
-<br>
+
 ![](https://github.com/hollybergen/Data-Journalism-and-D3/blob/master/Instructions/Images/d3scatter.JPG)
